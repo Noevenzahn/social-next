@@ -30,7 +30,8 @@ export default function Navbar() {
                 <Image 
                 src={user?.photoURL}
                 alt=""
-                passHref
+                width={50}
+                height={50}
                  />
               </Link>
             </li>

@@ -184,9 +184,12 @@ button.btn-logo {
   width:20%;
   display:block;
   margin:auto;
-  border-radius: 50%;
   max-width: 150px;
 }
+
+.card-img-center img {
+  border-radius: 50%;
+} 
 
 .card-info {
   color: white;
